@@ -36,7 +36,8 @@ The main purpose of this project is to reinforce fundamental data structure conc
 
 ## Screenshots
 
-You can add screenshots of the application here.
+
+
 
 ## How to Run
 
